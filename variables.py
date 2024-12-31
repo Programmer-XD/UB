@@ -4,7 +4,7 @@ VAR_SESSION = "BQFiozkAI0JnpGyqv2dfnEwKMH5wXB2Doj39fWe3dljsg2NcvqiEy0RkLr3ToR0Ql
 VAR_API_ID = "10187126"
 VAR_API_HASH = "ff197c0d23d7fe54c89b44ed092c1752"
 VAR_MONGO_DB_URI = "mongodb+srv://publicDB:publicDBbyKira@public.twckcqf.mongodb.net/?retryWrites=true&w=majority"
-VAR_TOKEN = "8105141727:AAHWCNbxc2ztcjcPmRE4cp2MCO9q73-h7Io"
-VAR_REPO_URL = "https://github.com/Paradopia/UB/" # Change to your fork repo
+VAR_TOKEN = "7682841659:AAFmr2L-pLoo16oDCTScX9gSz3P0no5Qi1E"
+VAR_REPO_URL = "https://github.com/THE-AKITO/UB/" # Change to your fork repo
 
 # Use "" for strings
