@@ -51,7 +51,7 @@ no_reply_user = """ ╒═══「 Appraisal results:」
 **ᴜsᴇʀʙɪᴏ**: `{}`
 **sᴜᴅᴏ ᴜsᴇʀ**: `{}`
 
-**Powered by: @Hyper_Speed0 & @FutureCity005 🥀**
+**Powered by: @Paradopia & @ParadopiaSupport🥀**
 """
 
 
