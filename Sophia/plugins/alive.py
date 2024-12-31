@@ -43,4 +43,4 @@ async def Sophia_Alive(_, message):
 **Join @Paradopia & @ParadopiaSupport ✨🥀**
 """
     await message.delete()
-    await Sophia.send_photo(message.chat.id, photo="https://telegra.ph/file/c74ff3e597f9598ca7cbb.jpg", caption=TEXT)
+    await Sophia.send_photo(message.chat.id, photo="http://ibb.co/gS5jXQm", caption=TEXT)
