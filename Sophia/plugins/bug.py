@@ -6,7 +6,7 @@ from pyrogram.types import *
 @SophiaBot.on_inline_query(filters.regex('SophiaReportBug'))
 async def send_reportBug(_, query):
   try:
-    btn = InlineKeyboardMarkup([[InlineKeyboardButton("🪲 Report a bug", user_id=5965055071)]])
+    btn = InlineKeyboardMarkup([[InlineKeyboardButton("🪲 Report a bug", user_id=7701655337)]])
     result = InlineQueryResultArticle(
       title="Report bug",
       input_message_content=InputTextMessageContent(
